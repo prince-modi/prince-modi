@@ -21,7 +21,6 @@
 [<img align="left" alt="Python" width="38px" src="https://image.flaticon.com/icons/png/512/2570/2570575.png" />][python]
 [<img align="left" alt="C++" width="38px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c++]
 [<img align="left" alt="Linux" width="38px" src="https://img-premium.flaticon.com/png/512/2333/premium/2333464.png?token=exp=1629719423~hmac=b258a01c373030a4c25604a932eb84cd" />][linux]
-
 [<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
 
 
@@ -29,6 +28,12 @@
 prince-modi/prince-modi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<br />
+<br />
+<br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prince-modi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 
 [instagram]: https://instagram.com/piirns
@@ -39,6 +44,11 @@ You can click the Preview link to take a look at your changes.
 [github]: https://github.com/prince-modi
 [linux]: https://www.linux.org/
 
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
