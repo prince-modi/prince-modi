@@ -1,8 +1,8 @@
 ## Hi, I'm Prince 
-- 🧑‍🎓  I am currently in the final year of my Bachelors of Engineering for Computer Science and Engineering
-- 👀  I’m interested in Systems Software Engineering
-- 🌱  I’m currently learning about Computer Architecture and Operating Systems
-- 🥅  Goals: Contribute to Open Source projects
+- 🧑‍🎓    I am currently in the final year of my Bachelors of Engineering for Computer Science and Engineering
+- 👀    I’m interested in Systems Software Engineering
+- 🌱    I’m currently learning about Computer Architecture and Operating Systems
+- 🥅    Goals: Contribute to Open Source projects
 
 
 
