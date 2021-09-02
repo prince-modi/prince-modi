@@ -6,15 +6,6 @@
 
 
 
-### Connect with me:
-
-[<img align="left" alt="prince | Gmail" width="38px" src="https://image.flaticon.com/icons/png/512/281/281786.png" />][mail]
-[<img align="left" alt="prince | LinkedIn" width="38px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />][linkedin]
-[<img align="left" alt="prince | Instagram" width="38px" src="https://image.flaticon.com/icons/png/512/4406/4406121.png" />][instagram]
-
-<br />
-<br />
-
 ### Languages and Tools:
 
 
@@ -22,7 +13,16 @@
 [<img align="left" alt="C++" width="38px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c++]
 [<img align="left" alt="Linux" width="38px" src="https://img-premium.flaticon.com/png/512/2333/premium/2333464.png?token=exp=1630562588~hmac=445709543423076103195566f0ceb106" />][linux]
 [<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
+<br />
+<br />
 
+### Connect with me:
+
+[<img align="left" alt="prince | Gmail" width="38px" src="https://image.flaticon.com/icons/png/512/281/281786.png" />][mail]
+[<img align="left" alt="prince | LinkedIn" width="38px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />][linkedin]
+[<img align="left" alt="prince | Instagram" width="38px" src="https://image.flaticon.com/icons/png/512/4406/4406121.png" />][instagram]
+
+<br />
 
 <!---
 prince-modi/prince-modi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
