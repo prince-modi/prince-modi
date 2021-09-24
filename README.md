@@ -11,7 +11,6 @@
 
 [<img align="left" alt="Python" width="38px" src="https://image.flaticon.com/icons/png/512/2570/2570575.png" />][python]
 [<img align="left" alt="C++" width="38px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c++]
-[<img align="left" alt="Linux" width="38px" src="https://img-premium.flaticon.com/png/512/2333/premium/2333464.png?token=exp=1630562588~hmac=445709543423076103195566f0ceb106" />][linux]
 [<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
 <br />
 <br />
