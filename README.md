@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="Python" width="38px" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" />][python]
-[<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
+[<img align="left" alt="C" width="38px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
 [<img align="left" alt="JavaScript" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
 [<img align="left" alt="Angular" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>][angular]
@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/modi-prince/
 [mail]: mailto:princebmodi@gmail.com
 [python]: https://www.python.org
-[c++]: https://isocpp.org/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
 [linux]: https://www.linux.org/
 [java]: https://www.java.com/en/
 [js]: https://www.javascript.com/
