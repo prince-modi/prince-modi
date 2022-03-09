@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="38px" src="https://image.flaticon.com/icons/png/512/281/281786.png" />][mail]
+[<img align="left" alt="Gmail" width="38px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />][mail]
 [<img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 
 <br />
@@ -58,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin, AngularJS, Docker, C Programming icon by Icons8</a>
+###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin, Gmail, AngularJS, Docker, C Programming icon by Icons8</a>
