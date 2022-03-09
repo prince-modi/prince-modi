@@ -11,6 +11,8 @@
 
 [<img align="left" alt="Python" width="38px" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" />][python]
 [<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
+[<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
+[<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
 [<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
 <br />
 <br />
@@ -42,6 +44,8 @@ You can click the Preview link to take a look at your changes.
 [c++]: https://isocpp.org/
 [github]: https://github.com/prince-modi
 [linux]: https://www.linux.org/
+[java]: https://www.java.com/en/
+[js]: https://www.javascript.com/
 
 <br />
 <br />
