@@ -13,14 +13,13 @@
 [<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
-[<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
 <br />
 <br />
 
 ### Connect with me:
 
 [<img align="left" alt="prince | Gmail" width="38px" src="https://image.flaticon.com/icons/png/512/281/281786.png" />][mail]
-[<img align="left" alt="prince | LinkedIn" width="38px" src="https://image.flaticon.com/icons/png/512/1383/1383262.png" />][linkedin]
+[<img align="leftL alt="LinkedIn" width="38px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
 [<img align="left" alt="prince | Instagram" width="38px" src="https://image.flaticon.com/icons/png/512/4406/4406121.png" />][instagram]
 
 <br />
@@ -42,7 +41,6 @@ You can click the Preview link to take a look at your changes.
 [mail]: mailto:princebmodi@gmail.com
 [python]: https://www.python.org
 [c++]: https://isocpp.org/
-[github]: https://github.com/prince-modi
 [linux]: https://www.linux.org/
 [java]: https://www.java.com/en/
 [js]: https://www.javascript.com/
@@ -57,4 +55,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin icon by Icons8</a>
