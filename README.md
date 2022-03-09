@@ -13,7 +13,7 @@
 [<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
-[<img align="left" alt="Java" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>] [angular]
+[<img align="left" alt="Java" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>][angular]
 <br />
 <br />
 
