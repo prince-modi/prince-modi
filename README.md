@@ -58,4 +58,4 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin, AngularJS, Docker icon by Icons8</a>
+###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin, AngularJS, Docker, C Programming icon by Icons8</a>
