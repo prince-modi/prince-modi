@@ -10,7 +10,7 @@
 
 
 [<img align="left" alt="Python" width="38px" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" />][python]
-[<img align="left" alt="C++" width="38px" src="https://image.flaticon.com/icons/png/512/541/541574.png" />][c++]
+[<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
 [<img align="left" alt="GitHub" width="38px" src="https://image.flaticon.com/icons/png/512/779/779088.png" />][github]
 <br />
 <br />
