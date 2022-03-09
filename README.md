@@ -13,6 +13,7 @@
 [<img align="left" alt="C++" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][c++]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
 [<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
+[<img align="left" alt="Java" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>] [angular]
 <br />
 <br />
 
@@ -20,7 +21,6 @@
 
 [<img align="left" alt="prince | Gmail" width="38px" src="https://image.flaticon.com/icons/png/512/281/281786.png" />][mail]
 [<img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
-[<img align="left" alt="prince | Instagram" width="38px" src="https://image.flaticon.com/icons/png/512/4406/4406121.png" />][instagram]
 
 <br />
 
@@ -44,6 +44,7 @@ You can click the Preview link to take a look at your changes.
 [linux]: https://www.linux.org/
 [java]: https://www.java.com/en/
 [js]: https://www.javascript.com/
+[angular]: https://angularjs.org/
 
 <br />
 <br />
