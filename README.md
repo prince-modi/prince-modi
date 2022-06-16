@@ -1,7 +1,7 @@
 ## Hi, I'm Prince 
-- 🧑‍🎓    I am currently in the final year of my Bachelors of Engineering for Computer Science and Engineering
-- 👀    I’m interested in Systems Software Engineering
-- 🌱    I’m currently learning about Computer Architecture and Operating Systems
+- 🧑‍🎓    I am currently an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
+- 👀    I’m interested in Distributed Systems & Software Engineering
+- 🌱    I’m currently learning about Distributed Systems, Computer Architecture and Operating Systems
 - 🥅    Goals: Contribute to Open Source projects
 
 
