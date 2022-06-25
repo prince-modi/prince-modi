@@ -1,40 +1,35 @@
-## Hi, I'm Prince 
-- 🧑‍🎓    I am currently an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
-- 👀    I’m interested in Distributed Systems & Software Engineering
-- 🌱    I’m currently learning about Distributed Systems, Computer Architecture and Operating Systems
-- 🥅    Goals: Contribute to Open Source projects
+# Hi, I'm Prince 👋
+* 🧑‍🎓    I am currently an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
+* 👀    I’m interested in Distributed Systems & Software Engineering
+* 🌱    I’m currently learning about Distributed Systems, Computer Architecture and Operating Systems
+* 🥅    Goals: Contribute to Open Source projects
 
 
+<img width=47% src="https://github-readme-stats.vercel.app/api?username=prince-modi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" />
 
-### Languages and Tools:
 
-
-[<img align="left" alt="Python" width="38px" src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" />][python]
-[<img align="left" alt="C" width="38px" src="https://img.icons8.com/color/48/000000/c-programming.png" />][c]
-[<img align="left" alt="Java" width="38px" src="https://cdn-icons-png.flaticon.com/512/3143/3143478.png" />][java]
-[<img align="left" alt="JavaScript" width="38px" src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" />][js]
-[<img align="left" alt="Angular" width="38px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>][angular]
-[<img align="left" alt="Docker" width="38px" src="https://img.icons8.com/fluency/48/000000/docker.png"/>][docker]
+## Languages and Tools:
+    
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 <br />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=red)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br />
+![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br />
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### Connect with me:
 
-[<img align="left" alt="Gmail" width="38px" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" />][mail]
-[<img align="left" alt="LinkedIn" width="38px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>][linkedin]
-
-<br />
-
-<!---
-prince-modi/prince-modi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br />
-<br />
-<br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prince-modi&&show_icons=true&title_color=303030&icon_color=ff007f&text_color=808080&bg_color=ffffff" />
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 
 
 [instagram]: https://instagram.com/piirns
@@ -47,15 +42,3 @@ You can click the Preview link to take a look at your changes.
 [js]: https://www.javascript.com/
 [angular]: https://angularjs.org/
 [docker]: https://www.docker.com/
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-###### Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a>, <a href="https://www.freepik.com" title="Freepik">Freepik</a>, and <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin, Gmail, AngularJS, Docker, C Programming icon by Icons8</a>
