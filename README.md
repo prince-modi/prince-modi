@@ -1,5 +1,5 @@
 # Hi, I'm Prince 👋
-* 🧑‍🎓    I am currently an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
+* 🧑    I worked as an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
 * 👀    I’m interested in Distributed Systems & Software Engineering
 * 🌱    I’m currently learning about Distributed Systems, Computer Architecture and Operating Systems
 * 🥅    Goals: Contribute to Open Source projects
