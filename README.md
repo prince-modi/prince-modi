@@ -2,8 +2,7 @@
 * 🧑    I worked as an intern at STL-Sterlite Technologies having completed my Bachelors of Technology in Computer Science
 * 👀    I’m interested in Distributed Systems & Software Engineering
 * 🌱    I’m currently learning about Distributed Systems, Computer Architecture and Operating Systems
-* 🥅    Goals: Contribute to Open Source projects
-
+* 🥅    Goals: Work in research and contribute to opensource
 
 <img width=47% src="https://github-readme-stats.vercel.app/api?username=prince-modi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" />
 
