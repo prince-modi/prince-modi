@@ -63,7 +63,7 @@
 
 - ### Languages
 &nbsp;&nbsp;&nbsp;&nbsp; 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/prince-modi?tab=repositories&q=&type=&language=python&sort=)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
