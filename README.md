@@ -1,44 +1,74 @@
 # Hi, I'm Prince 👋
-* Computer Engineering Grad 🚀
-* Project Associate at DREAM:Lab, IISc Bangalore 🤖
-* Passionate about using technology to solve real-world problems 💡
-* Distributed systems enthusiast 🕸️
-* Driven to learn and grow, both personally and professionally 📈
 
-<!--img width=47% src="https://github-readme-stats.vercel.app/api?username=prince-modi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's github stats" /-->
+🚀 Computer Engineering Graduate  
+🎓 Incoming Graduate Student @ **UC San Diego (UCSD)**  
+💡 Passionate about solving real-world problems through technology  
+🕸️ Distributed Systems Enthusiast  
+📈 Continuously learning and growing—technically and personally  
 
+---
 
-## Languages and Tools:
-    
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-<br />
+## 🔬 Recent Research Experience
+
+**Project Associate, [DREAM:Lab, IISc Bangalore](https://github.com/dream-lab/flotilla)**   
+
+- Worked on the development of **Flotilla**, an asynchronous federated learning framework designed for edge deployments  
+- Implemented server-client architecture using **MQTT** and **gRPC** for efficient communication and control  
+- Built a Redis-based state store with checkpointing to ensure system resilience and recovery from full failures  
+- Integrated customizable client selection and aggregation strategies to support various FL workloads  
+- Collaborated with PhD students and researchers under **Prof. Manik Gupta (BITS Pilani)** and **Prof. Yogesh Simmhan (IISc)**  
+- Managed an **80+ node edge cluster** (NVIDIA Jetsons, Raspberry Pis) to support research and experimentation  
+- Contributed to **Flotilla’s Docker-based distributed deployment** with 1000+ clients for scalability evaluations  
+- Assisted in manuscript writing, experimental design, and analysis for accepted publications  
+
+---
+
+## 📝 Publications & Presentations
+
+### 📰 Journal Publications
+
+- Roopkatha Banerjee, **Prince Modi**, Jinal Vyas, Abhijit Sri Chundru, Tejas Chandrashekhar, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
+  *Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources*  
+  **Journal of Parallel and Distributed Computing (JPDC)** – *Accepted*  
+  > One of the top journals in distributed systems (CORE A)
+
+### 📌 Conference Posters
+
+- Roopkatha Banerjee, **Prince Modi**, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
+  *Towards a Modular Federated Learning Framework on Edge Devices*  
+  *30th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2023*
+
+- Suman Raj, Swapnil Padhi, Ruchi Bhoot, **Prince Modi**, Yogesh Simmhan  
+  *Towards Collision Avoidance for UAVs to Guide the Visually Impaired*  
+  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Late-Breaking Results Abstracts, 2023*
+
+---
+
+## 🛠️ Languages & Tools
+
+### Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+### Operating Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=red)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<br />
-![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-<br />
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=red)
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 
-### Connect with me:
+<!--
+## 📊 GitHub Stats
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=prince-modi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Prince's GitHub Stats" />
+-->
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][mail]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+---
 
+## 📫 Connect With Me
 
-[instagram]: https://instagram.com/piirns
-[linkedin]: https://www.linkedin.com/in/modi-prince/
-[mail]: mailto:princebmodi@gmail.com
-[python]: https://www.python.org
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[linux]: https://www.linux.org/
-[java]: https://www.java.com/en/
-[js]: https://www.javascript.com/
-[angular]: https://angularjs.org/
-[docker]: https://www.docker.com/
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princebmodi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modi-prince/)
 
-<!--![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)-->
+---
