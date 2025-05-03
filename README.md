@@ -49,7 +49,7 @@
 <!--
 - ### Languages
 &nbsp;&nbsp;&nbsp;&nbsp; ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/prince-modi?tab=repositories&q=&type=&language=python&sort=)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 - ### Operating Systems & Tools
