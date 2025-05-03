@@ -63,12 +63,12 @@
 
 - ### Languages
 &nbsp;&nbsp;&nbsp;&nbsp; 
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/prince-modi?tab=repositories&q=&type=&language=python&sort=)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/prince-modi?tab=repositories&q=&type=&language=python)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/prince-modi?tab=repositories&q=&type=&language=java) 
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/prince-modi?tab=repositories&q=&type=&language=go)
+[![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)](https://github.com/prince-modi?tab=repositories&q=&type=&language=lua)
+[![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://github.com/prince-modi?tab=repositories&q=&type=&language=c)
 
 - ### Operating Systems & Tools
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,21 +80,21 @@
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=red)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+[![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://github.com/prince-modi/kickstart.nvim)
 
 - ### Frameworks & Technologies
 &nbsp;&nbsp;&nbsp;&nbsp;
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-005C84?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
+[![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/dream-lab/flotilla)
+[![MQTT](https://img.shields.io/badge/MQTT-005C84?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)](https://github.com/dream-lab/flotilla)
 <br/> &nbsp;&nbsp;&nbsp;&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/dream-lab/flotilla)
+[![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/dream-lab/flotilla)
 
 - ### Databases
 &nbsp;&nbsp;&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/dream-lab/flotilla)
 
 
 <!--
