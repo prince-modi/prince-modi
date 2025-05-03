@@ -28,18 +28,18 @@
 ### 📰 Journal Publications
 
 - Roopkatha Banerjee, **Prince Modi**, Jinal Vyas, Abhijit Sri Chundru, Tejas Chandrashekhar, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
-  *Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources*  
+  ***Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources***  
   **Journal of Parallel and Distributed Computing (JPDC)** – *Accepted*  
   > One of the top journals in distributed systems (CORE A)
 
 ### 📌 Conference Posters
 
 - Roopkatha Banerjee, **Prince Modi**, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
-  *Towards a Modular Federated Learning Framework on Edge Devices*  
+  ***Towards a Modular Federated Learning Framework on Edge Devices***  
   *30th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2023*
 
 - Suman Raj, Swapnil Padhi, Ruchi Bhoot, **Prince Modi**, Yogesh Simmhan  
-  *Towards Collision Avoidance for UAVs to Guide the Visually Impaired*  
+  ***Towards Collision Avoidance for UAVs to Guide the Visually Impaired***  
   *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Late-Breaking Results Abstracts, 2023*
 
 ---
