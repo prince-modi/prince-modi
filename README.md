@@ -1,14 +1,11 @@
 # Hi, I'm Prince 👋
 
-🚀 Computer Engineering Graduate  
-🎓 Incoming Graduate Student @ **UC San Diego (UCSD)**  
-💡 Passionate about solving real-world problems through technology  
-🕸️ Distributed Systems Enthusiast  
-📈 Continuously learning and growing—technically and personally  
+- Graduate Student @ **UC San Diego (UCSD)**  
+- Distributed Systems Enthusiast  
 
 ---
 
-## 🔬 Recent Research Experience
+## Recent Research Experience
 
 **Project Associate, [DREAM:Lab, IISc Bangalore](https://github.com/dream-lab/flotilla)**   
 
@@ -23,28 +20,27 @@
 
 ---
 
-## 📝 Publications & Presentations
+## Publications & Presentations
 
-### 📰 Journal Publications
+### Journal Publications
 
-- Roopkatha Banerjee, **Prince Modi**, Jinal Vyas, Abhijit Sri Chundru, Tejas Chandrashekhar, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
-  ***Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources***  
-  **Journal of Parallel and Distributed Computing (JPDC)** 
-  > One of the top journals in distributed systems (CORE A)
+- ***Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources***  
+  *Journal of Parallel and Distributed Computing (JPDC), 2025* <br>
+  Roopkatha Banerjee, **Prince Modi**, Jinal Vyas, Abhijit Sri Chundru, Tejas Chandrashekhar, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
 
-### 📌 Conference Posters
+### Conference Posters
 
-- Roopkatha Banerjee, **Prince Modi**, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
-  ***Towards a Modular Federated Learning Framework on Edge Devices***  
-  *30th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2023*
+- ***Towards a Modular Federated Learning Framework on Edge Devices***  
+  *30th IEEE International Conference on High Performance Computing, Data, and Analytics (HiPC), 2023* <br>
+  Roopkatha Banerjee, **Prince Modi**, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
 
-- Suman Raj, Swapnil Padhi, Ruchi Bhoot, **Prince Modi**, Yogesh Simmhan  
-  ***Towards Collision Avoidance for UAVs to Guide the Visually Impaired***  
-  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Late-Breaking Results Abstracts, 2023*
+- ***Towards Collision Avoidance for UAVs to Guide the Visually Impaired***  
+  *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Late-Breaking Results Abstracts, 2023* <br>
+  Suman Raj, Swapnil Padhi, Ruchi Bhoot, **Prince Modi**, Yogesh Simmhan  
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <!--
 - ### Languages
@@ -104,7 +100,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 &nbsp;&nbsp;&nbsp;&nbsp; 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princebmodi@gmail.com)
