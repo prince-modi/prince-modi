@@ -29,7 +29,7 @@
 
 - Roopkatha Banerjee, **Prince Modi**, Jinal Vyas, Abhijit Sri Chundru, Tejas Chandrashekhar, Harsha Varun Marisetty, Manik Gupta, Yogesh Simmhan  
   ***Flotilla: A Scalable, Modular and Resilient Federated Learning Framework for Heterogeneous Resources***  
-  **Journal of Parallel and Distributed Computing (JPDC)** – *Accepted*  
+  **Journal of Parallel and Distributed Computing (JPDC)** 
   > One of the top journals in distributed systems (CORE A)
 
 ### 📌 Conference Posters
