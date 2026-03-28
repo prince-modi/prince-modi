@@ -9,7 +9,7 @@
  /____/\____\____\
 
 
-mostly interested in making distributed systems <br>
+mostly interested in making distributed systems
 not fall apart when things go wrong.
 ```
 [princemodi.me](https://princemodi.me) · [mail](mailto:princebmodi@gmail.com)
