@@ -1,13 +1,12 @@
 ```
         /\                  prince@ucsd
        /  \                 -----------
-      /\    \               os:     arch linux
-     /  \    \              focus:  distributed systems
+      /\    \               os:     arch linux (btw)
+     /  \    \              focus:  systems
     / __ \    \             prev:   flotilla @ iisc
    /      \    \            pub:    jpdc 2025
   /  arch  \    \           editor: neovim
  /____/\____\____\
-
 
 mostly interested in making distributed systems
 not fall apart when things go wrong.
