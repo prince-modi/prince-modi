@@ -8,7 +8,6 @@
   /  arch  \    \           editor: neovim
  /____/\____\____\
 
-mostly interested in making distributed systems
-not fall apart when things go wrong.
+mostly interested in making distributed systems not fall apart when things go wrong.
 ```
 [princemodi.me](https://princemodi.me) · [mail](mailto:princebmodi@gmail.com)
